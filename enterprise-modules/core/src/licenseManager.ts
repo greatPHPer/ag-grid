@@ -238,7 +238,7 @@ export class LicenseManager extends BeanStub {
     }
 
     private outputMissingLicenseKey() {
-        console.error('****************************************************************************************************************');
+        console.error('dhilip****************************************************************************************************************');
         console.error('***************************************** AG Grid Enterprise License *******************************************');
         console.error('****************************************** License Key Not Found ***********************************************');
         console.error('* All AG Grid Enterprise features are unlocked.                                                                *');
